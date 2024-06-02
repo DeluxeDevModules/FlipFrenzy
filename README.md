@@ -1,6 +1,4 @@
-Here is the text in a format that you can paste directly into GitHub:
-
-**README.md**
+**FlipFrenzy**
 ------------
 
 ### Introduction
