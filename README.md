@@ -90,7 +90,7 @@ Added option to set custom auction duration
 
 #### Step 3: Install FlipFrenzy
 
-[FlipFrenzy Download](Flip Frenzy Github Relase Link Here)
+[FlipFrenzy Download](https://github.com/FlipFrenzy/FlipFrenzy/releases/tag/RELEASE)
 
 1. Download the latest release of FlipFrenzy from the link above.
 2. Unzip the file and place it in the `ChatTriggers\modules` folder within your Minecraft configuration directory
