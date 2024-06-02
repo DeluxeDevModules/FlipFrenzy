@@ -72,8 +72,6 @@ Fixed bug with auction analysis not displaying correct prices
 Improved performance of automated auction management algorithm
 Added option to set custom auction duration
 
-Here is the installation section formatted for GitHub:
-
 ### Installation
 
 #### Step 1: Download and Install Forge 1.8.9
