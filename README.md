@@ -1,6 +1,4 @@
-Here is the updated README.md file with the images:
-
-**README.md**
+**FlipFrenzy**
 ------------
 
 ### Introduction
