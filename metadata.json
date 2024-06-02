@@ -1,0 +1,8 @@
+{
+  "name": "BZflipperV2",
+  "creator": "Rqnge",
+  "description": "An simple bazaar flipping mod for Hypixel SkyBlock.",
+  "entry": "./index.js",
+  "version": "1.0.0",
+  "requires": ["PromiseV2","axios"]
+}
