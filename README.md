@@ -1,4 +1,6 @@
-**FlipFrenzy**
+Here is the updated README.md file with the images:
+
+**README.md**
 ------------
 
 ### Introduction
@@ -33,7 +35,7 @@ This section recommends the best items to buy and sell in the bazaar to maximize
 This section allows you to set up custom auctions and manage the bidding process.
 
 #### Alerts
-This section allows you to customize your alert notifications.
+![Alert Messages](https://i.imgur.com/22lt0Jk.png)
 
 ### Guides
 #### Getting Started
@@ -47,6 +49,9 @@ Tips and tricks for getting the most out of FlipFrenzy's features.
 * Set up custom auctions for high-demand items to maximize your profits.
 * Use FlipFrenzy's bazaar optimization feature to find the best items to buy and sell in the bazaar.
 * Customize your alerts to receive notifications when your favorite items are listed for sale or when prices drop.
+
+### Results
+![Purse of Profits](https://i.ebayimg.com/images/g/TCQAAOSwXg5jTEfg/s-l1600.png)
 
 ### Change Log
 **v1.0.0**
