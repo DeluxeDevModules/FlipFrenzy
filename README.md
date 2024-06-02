@@ -109,6 +109,7 @@ Once you have installed FlipFrenzy, restart your Minecraft client and open the C
 That's it! You should now have FlipFrenzy installed and running on your Minecraft client.
 
 
+### MISC
 
 **LICENSE**
 FlipFrenzy is licensed under the MIT License. See [LICENSE](LICENSE) for details.
