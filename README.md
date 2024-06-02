@@ -6,6 +6,8 @@ Here is the updated README.md file with the images:
 ### Introduction
 FlipFrenzy is a Hypixel Skyblock Chattriggers Module designed to help you maximize your profits when auctioning and bazaar flipping. This module provides a range of features to help you make informed decisions and streamline your workflow.
 
+[**Skip to Installation Guide**](#installation)
+
 ### Features
 * Auction analysis: Get detailed information about the auction market, including demand, supply, and price trends.
 * Bazaar optimization: FlipFrenzy recommends the best items to buy and sell in the bazaar to maximize your profits.
@@ -85,7 +87,7 @@ Here is the installation section formatted for GitHub:
 
 #### Step 2: Install Chat Triggers
 
-[https://www.chattriggers.com/](https://www.chattriggers.com/)
+[ChatTriggers Download](https://www.chattriggers.com/)
 
 1. Download the Chat Triggers mod from the link above.
 2. Follow the installation instructions to install Chat Triggers for Minecraft 1.8.9.
@@ -95,7 +97,8 @@ Here is the installation section formatted for GitHub:
 [FlipFrenzy Download](Flip Frenzy Github Relase Link Here)
 
 1. Download the latest release of FlipFrenzy from the link above.
-2. Unzip the file and place it in the `ChatTriggers\modules` folder within your Minecraft configuration directory (usually located at `\AppData\Roaming\.minecraft\config\ChatTriggers\modules`).
+2. Unzip the file and place it in the `ChatTriggers\modules` folder within your Minecraft configuration directory
+(usually located at `\AppData\Roaming\.minecraft\config\ChatTriggers\modules`).
 
 #### Step 4: Reload Chat Triggers
 
@@ -104,6 +107,8 @@ Once you have installed FlipFrenzy, restart your Minecraft client and open the C
 1. Run the command `ct reload` to reload the mod and enable FlipFrenzy.
 
 That's it! You should now have FlipFrenzy installed and running on your Minecraft client.
+
+
 
 **LICENSE**
 FlipFrenzy is licensed under the MIT License. See [LICENSE](LICENSE) for details.
